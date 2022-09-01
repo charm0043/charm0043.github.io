@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Cha Minseo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a developer."
+  bio              : "안녕하세요."
   location         : "Somewhere"
   email            :
   links:
