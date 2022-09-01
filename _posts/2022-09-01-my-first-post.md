@@ -14,7 +14,7 @@ date: 2022-09-01
 last_modified_at: 2022-09-01
 ---
 - Jetson이란?
-<br>NVIDIA가 만드는 자사의 Tegra CPU 기반 개발자 보드, 저전력 특성, 임베디드 AI나 영상처리용 보드로 쓰임.
+<br>NVIDIA가 만드는 자사의 Tegra CPU 기반 개발자 보드, 저전력 특성, 임베디드 AI용 보드로 쓰임.
 
 - Jetson Nano란?
 <br>젯슨 TX1 모듈을 그대로 쓰면서 전체적인 크기를 대폭 줄이고 원가 절감을 한 모델.
