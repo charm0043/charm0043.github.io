@@ -1,11 +1,11 @@
 ---
-title:  "[Jekyll] 블로그 포스팅하는 방법"
-excerpt: "md 파일에 마크다운 문법으로 작성하여 Github 원격 저장소에 업로드 해보자. 에디터는 Visual Studio code 사용! 로컬 서버에서 확인도 해보자. "
+title:  "[1일차] 여러 기술들과 라이브러리, 프레임워크"
+excerpt: "현재 회사에서 쓰이고 있는 기술들의 정의와 설명"
 
 categories:
   - Blog
 tags:
-  - [Blog, jekyll, Github, Git]
+  - [Blog, jekyll, Github, Git, AI, DeepLearning]
 
 toc: true
 toc_sticky: true
@@ -47,5 +47,5 @@ NVIDA사에서 개발한 딥러닝 연산 최적화 엔진.
 
 - pose estimation & tracking이란?
 의미있는 key points들을 검출(오른쪽 어깨와 같은), 관련성을 찾고, 지속적으로 추적
-\- Bottom-up 방식: 사람의 관절을 모두 추정, 그리고 특정한 포즈 or 하나의 사람 객체의 포즈로 그룹지어주는 방식.
-\- Top-down 방식: 사람을 먼저 뽑아내서 관절을 추정
+<br>\- Bottom-up 방식: 사람의 관절을 모두 추정, 그리고 특정한 포즈 or 하나의 사람 객체의 포즈로 그룹지어주는 방식.
+<br>\- Top-down 방식: 사람을 먼저 뽑아내서 관절을 추정
