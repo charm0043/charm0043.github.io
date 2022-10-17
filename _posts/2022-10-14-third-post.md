@@ -14,11 +14,12 @@ date: 2022-10-14
 last_modified_at: 2022-10-14
 ---
 
+''' python
 import cv2
 import os
 
-def show_image(hr_path, predic_path, lr_path):
-    HR = cv2.imread(hr_path)
+def show_image(hr_path, predic_path, lr_path): # Load Images
+    HR = cv2.imread(hr_path)  
     predict = cv2.imread(predict_path)
     LR_SRx4 = cv2.imread(lr_path)
     
@@ -53,3 +54,4 @@ if __name__ == "__main__":
     lr_path = './datasets/DIV2K/DIV2K_valid_LR_bicubic/{}.png'.format(check_number)
     
     show_image(hr_path, predict_path, lr_path)
+'''
