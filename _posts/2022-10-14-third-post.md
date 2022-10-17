@@ -14,7 +14,7 @@ date: 2022-10-14
 last_modified_at: 2022-10-14
 ---
 
-''' python
+``` python
 import cv2
 import os
 
@@ -54,4 +54,4 @@ if __name__ == "__main__":
     lr_path = './datasets/DIV2K/DIV2K_valid_LR_bicubic/{}.png'.format(check_number)
     
     show_image(hr_path, predict_path, lr_path)
-'''
+```
